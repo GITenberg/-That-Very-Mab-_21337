@@ -1,0 +1,35 @@
+_repo: -That-Very-Mab-_21337
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Kendall, May
+    alias: Kendall, Emma Goldworth
+    birthdate: 1861
+    gutenberg_agent_id: '9865'
+    url: http://www.gutenberg.org/2009/agents/9865
+  - agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: ''
+gutenberg_issued: '2007-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21337'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairies -- Fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Satire'
+title: '''That Very Mab'''
+url: http://www.gutenberg.org/ebooks/21337
